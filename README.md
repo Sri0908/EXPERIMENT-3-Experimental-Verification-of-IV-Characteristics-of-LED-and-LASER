@@ -58,6 +58,8 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 
 ---
 
+![exp3](https://github.com/user-attachments/assets/fd45bc1d-ef22-458d-8fb1-b9d594cd6657)
+
 ## ✅ RESULT
 - The forward voltage and current characteristics of the fiber optic LED were successfully studied.
 - The photo detector response was observed and analyzed.
